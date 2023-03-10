@@ -17,18 +17,18 @@
   "users": [
     {
       "id": 1,
-      "name": "Anakin",
-      "lastName": "Skywalker"
+      "username": "kevinCameron",
+      "password": "kevinCameron2005"
     },
     {
       "id": 2,
-      "name": "Padme",
-      "lastName": "Amidala"
+      "username": "SaraPogue",
+      "password": "travel123"
     },
     {
       "id": 3,
-      "name": "Obi-Wan",
-      "lastName": "Kenobi"
+      "username": "johnPotter",
+      "password": "johnPotter123"
     }
   ]
 }
